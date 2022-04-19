@@ -1,4 +1,4 @@
-#The Artificial Organization (TAO)
+# The Artificial Organization (TAO)
 
 This repository contains the supplementary material
 for TAO publication. There is the supplementary materials
